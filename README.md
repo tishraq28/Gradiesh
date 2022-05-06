@@ -10,8 +10,8 @@ Gradiesh mainly a site of a small collection of gradients. It is built for both 
   
 <h2>Usages</h2>
 
-<h5>1. Open the main site
-</h5>
+<h3>1. Open the main site
+</h3>
 <img width="600" alt="Screenshot_28" src="https://user-images.githubusercontent.com/101325013/166919786-7b36f760-f617-4662-b4d5-6dc4ffe76d94.png">
 
 <h3>2. Choose your gradients

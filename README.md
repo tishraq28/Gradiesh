@@ -5,7 +5,7 @@
 <h2>Intro</h2>
 
 <p>
-Gradiesh mainly a site of a small collection of gradients. It is built for both designers and developers. They can use gradients from the site. In the main, site there are only 24 gradients but all of these are most used in the web 3.0 era. Sometimes, it is hard to make common gradients withh css.For this, Gradiesh is a easy solution. All can use it without any hassle. 
+Gradiesh mainly a site of a small collection of gradients. It is built for both designers and developers. They can use gradients from the site. In the main, site there are only 24 gradients but all of these are most used in the web 3.0 era. Sometimes, it is hard to make common gradients with css.For this, Gradiesh is a easy solution. All can use it without any hassle. 
 <p>
   
 <h2>Usages</h2>
